@@ -1,5 +1,3 @@
--- Decompiled with the Synapse X Luau decompiler.
-
 local l__ReplicatedStorage__1 = game:GetService("ReplicatedStorage");
 local v3 = require(l__ReplicatedStorage__1.Modules.Load);
 local u8 = v3("UIHandler", true);
